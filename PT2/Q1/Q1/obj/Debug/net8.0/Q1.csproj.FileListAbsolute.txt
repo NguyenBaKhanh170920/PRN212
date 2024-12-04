@@ -1,0 +1,14 @@
+C:\Users\Khanh Ba\Documents\PRN212\PT2\Q1\Q1\bin\Debug\net8.0\Q1.exe
+C:\Users\Khanh Ba\Documents\PRN212\PT2\Q1\Q1\bin\Debug\net8.0\Q1.deps.json
+C:\Users\Khanh Ba\Documents\PRN212\PT2\Q1\Q1\bin\Debug\net8.0\Q1.runtimeconfig.json
+C:\Users\Khanh Ba\Documents\PRN212\PT2\Q1\Q1\bin\Debug\net8.0\Q1.dll
+C:\Users\Khanh Ba\Documents\PRN212\PT2\Q1\Q1\bin\Debug\net8.0\Q1.pdb
+C:\Users\Khanh Ba\Documents\PRN212\PT2\Q1\Q1\obj\Debug\net8.0\Q1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Khanh Ba\Documents\PRN212\PT2\Q1\Q1\obj\Debug\net8.0\Q1.AssemblyInfoInputs.cache
+C:\Users\Khanh Ba\Documents\PRN212\PT2\Q1\Q1\obj\Debug\net8.0\Q1.AssemblyInfo.cs
+C:\Users\Khanh Ba\Documents\PRN212\PT2\Q1\Q1\obj\Debug\net8.0\Q1.csproj.CoreCompileInputs.cache
+C:\Users\Khanh Ba\Documents\PRN212\PT2\Q1\Q1\obj\Debug\net8.0\Q1.dll
+C:\Users\Khanh Ba\Documents\PRN212\PT2\Q1\Q1\obj\Debug\net8.0\refint\Q1.dll
+C:\Users\Khanh Ba\Documents\PRN212\PT2\Q1\Q1\obj\Debug\net8.0\Q1.pdb
+C:\Users\Khanh Ba\Documents\PRN212\PT2\Q1\Q1\obj\Debug\net8.0\Q1.genruntimeconfig.cache
+C:\Users\Khanh Ba\Documents\PRN212\PT2\Q1\Q1\obj\Debug\net8.0\ref\Q1.dll

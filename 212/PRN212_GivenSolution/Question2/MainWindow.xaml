@@ -1,0 +1,69 @@
+﻿<Window x:Class="Question2.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Question2"
+        mc:Ignorable="d"
+        Title="ListCourseByUser" Loaded="Window_Loaded" Height="450" Width="1000">
+    <Grid Margin="0,0,147,0">
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="494"></ColumnDefinition>
+            <ColumnDefinition Width="306"></ColumnDefinition>
+        </Grid.ColumnDefinitions>
+        <StackPanel Grid.Column="0"  Margin="10,40,10,40">
+            <ComboBox  x:Name="cbUser" SelectionChanged="cbUser_SelectionChanged">
+
+            </ComboBox>
+            <Label></Label>
+            <ListView Grid.Row="2" Name="lvData" Width="Auto" Height="Auto" >
+                <ListView.View>
+                    <GridView>
+                        <GridViewColumn  Header="CourseId" Width="40"
+            DisplayMemberBinding="{Binding Path=Course.CourseId }"  />
+                        <GridViewColumn Header="Title" Width="Auto"
+                            DisplayMemberBinding="{Binding Path=Course.Title}"/>
+                        <GridViewColumn Header="Description" Width="70"
+                            DisplayMemberBinding = "{Binding Path=Course.Description}"/>
+                        <GridViewColumn Header="IntructorId" Width="Auto"
+                            DisplayMemberBinding = "{Binding Path=Course.Instructor.InstructorId}"/>
+                        <GridViewColumn Header="IntructorName" Width="Auto"
+                            DisplayMemberBinding = "{Binding Path=Course.Instructor.Name}"/>
+                    </GridView>
+                </ListView.View>
+
+            </ListView>
+        </StackPanel>
+        <StackPanel Grid.Column="1" Margin="0,40,0,40" Orientation="Vertical">
+            <StackPanel Orientation="Horizontal" Margin="10">
+                <Label Content="CourseId" Width="80"></Label>
+                <TextBlock x:Name="txtId" Width="200" Text="{Binding Path=Course.CourseId}"
+DataContext="{Binding ElementName=lvData,Path=SelectedItem}"></TextBlock>
+            </StackPanel>
+            <!--<StackPanel Orientation="Horizontal" Margin="10">
+            <Label Content="CourseTitle Width="80"></Label>
+            <TextBox x:Name="txtTitle" Width="200"></TextBox>
+        </StackPanel>-->
+            <StackPanel Orientation="Horizontal" Margin="10">
+                <Label Content="Course Title" Width="80"></Label>
+                <TextBox x:Name="txtTitle" Width="200" Text="{Binding Path=Course.Title}"
+DataContext="{Binding ElementName=lvData,Path=SelectedItem}"></TextBox>
+            </StackPanel>
+            <StackPanel Orientation="Horizontal" Margin="10">
+                <Label Content="Description" Width="80"></Label>
+                <TextBox x:Name="txtDescription" Width="200" Text="{Binding Path=Course.Description}"
+DataContext="{Binding ElementName=lvData,Path=SelectedItem}"></TextBox>
+            </StackPanel>
+            <StackPanel Orientation="Horizontal" Margin="10">
+                <Label Content="Intructor" Width="80"></Label>
+                <ComboBox Width="200" x:Name="cbIntr" Text="{Binding Path=Course.Instructor.Name}"
+DataContext="{Binding ElementName=lvData,Path=SelectedItem}">
+
+                </ComboBox>
+            </StackPanel>
+            <StackPanel Grid.Row="1" Orientation="Horizontal" HorizontalAlignment="Left">
+                <Button x:Name="btnEdit" Margin="10"  Width="104" Content="Edit" Click="btnEdit_Click" VerticalAlignment="Center" HorizontalAlignment="Center" />
+            </StackPanel>
+        </StackPanel>
+    </Grid>
+</Window>

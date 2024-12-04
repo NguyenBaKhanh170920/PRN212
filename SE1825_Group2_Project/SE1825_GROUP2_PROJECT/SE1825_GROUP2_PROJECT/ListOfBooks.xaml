@@ -1,0 +1,50 @@
+﻿<Window x:Class="SE1852_GROUP2_PROJECT.ListOfBooks"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:SE1852_GROUP2_PROJECT"
+        mc:Ignorable="d"
+        Title="ListOfBooks" Height="450" Width="800">
+    <Grid>
+
+        <Grid.RowDefinitions>
+            <RowDefinition Height="*"></RowDefinition>
+            <RowDefinition Height="3*"></RowDefinition>
+        </Grid.RowDefinitions>
+
+
+        <Grid Grid.Row="1" >
+            <DockPanel >
+
+                <ListView Name="lvBook" Height="315"  Width="797" >
+                    <ListView.View>
+                        <GridView>
+                            <GridViewColumn Header="Id" Width="50" DisplayMemberBinding="{Binding Path=Id}"/>
+                            <GridViewColumn Header="Title" Width="110" DisplayMemberBinding="{Binding Path=Title}"/>
+                            <GridViewColumn Header="Quantity" Width="70" DisplayMemberBinding="{Binding Path=Quantity}"/>
+                            <GridViewColumn Header="Publisher" Width="110" DisplayMemberBinding="{Binding Path=Publisher}"/>
+                            <GridViewColumn Header="Price" Width="70" DisplayMemberBinding="{Binding Path=Price}"/>
+                            <GridViewColumn Header="Category" Width="110" DisplayMemberBinding="{Binding Path=CategoryName}"/>
+
+                        </GridView>
+                    </ListView.View>
+                </ListView>
+            </DockPanel>
+        </Grid>
+        <TextBlock HorizontalAlignment="Left" Margin="187,23,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Text="Search By" RenderTransformOrigin="1.952,0.692"/>
+        <StackPanel Orientation="Horizontal" Margin="187,44,264,37">
+            <RadioButton x:Name="rbtitle" Content="Title" IsChecked="True"/>
+            <RadioButton x:Name="rbPublisher" Content="Publisher"/>
+            <RadioButton x:Name="rbPrice" Content="Price" />
+            <RadioButton x:Name="rbCategory" Content="Category"/>
+
+        </StackPanel>
+        <TextBox x:Name="txtKeyword" HorizontalAlignment="Left" Margin="416,44,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120" KeyDown="TxtSearch_KeyDown"/>
+
+
+
+
+
+    </Grid>
+</Window>

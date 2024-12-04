@@ -1,0 +1,9 @@
+﻿<Application x:Class="SE1825_FirstWPF.App"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:local="clr-namespace:SE1825_FirstWPF"
+             StartupUri="DockPanelWindow.xaml">
+    <Application.Resources>
+         
+    </Application.Resources>
+</Application>

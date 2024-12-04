@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Administrator\\Documents\\PRN212\\Q4\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CBBA16BA-914C-4689-9A98-887D4A5CFF7C}|Q4\\Q4.csproj|c:\\users\\administrator\\documents\\prn212\\q4\\q4\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CBBA16BA-914C-4689-9A98-887D4A5CFF7C}|Q4\\Q4.csproj|solutionrelative:q4\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CBBA16BA-914C-4689-9A98-887D4A5CFF7C}|Q4\\Q4.csproj|c:\\users\\administrator\\documents\\prn212\\q4\\q4\\mycollection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CBBA16BA-914C-4689-9A98-887D4A5CFF7C}|Q4\\Q4.csproj|solutionrelative:q4\\mycollection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CBBA16BA-914C-4689-9A98-887D4A5CFF7C}|Q4\\Q4.csproj|c:\\users\\administrator\\documents\\prn212\\q4\\q4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CBBA16BA-914C-4689-9A98-887D4A5CFF7C}|Q4\\Q4.csproj|solutionrelative:q4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MyCollection.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Documents\\PRN212\\Q4\\Q4\\MyCollection.cs",
+              "RelativeDocumentMoniker": "Q4\\MyCollection.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Documents\\PRN212\\Q4\\Q4\\MyCollection.cs",
+              "RelativeToolTip": "Q4\\MyCollection.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-20T02:06:50.819Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Person.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Documents\\PRN212\\Q4\\Q4\\Person.cs",
+              "RelativeDocumentMoniker": "Q4\\Person.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Documents\\PRN212\\Q4\\Q4\\Person.cs",
+              "RelativeToolTip": "Q4\\Person.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-20T02:06:35.109Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Documents\\PRN212\\Q4\\Q4\\Program.cs",
+              "RelativeDocumentMoniker": "Q4\\Program.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Documents\\PRN212\\Q4\\Q4\\Program.cs",
+              "RelativeToolTip": "Q4\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAgAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-20T02:05:53.72Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

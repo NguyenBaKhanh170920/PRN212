@@ -1,0 +1,501 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Khanh Ba\\Documents\\PRN212\\SE1825_Group2_A2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{73B1A314-E816-4256-BB15-5714DE641C82}|SE1825_Group2_A2\\SE1825_Group2_A2.csproj|c:\\users\\khanh ba\\documents\\prn212\\se1825_group2_a2\\se1825_group2_a2\\views\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{73B1A314-E816-4256-BB15-5714DE641C82}|SE1825_Group2_A2\\SE1825_Group2_A2.csproj|solutionrelative:se1825_group2_a2\\views\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73B1A314-E816-4256-BB15-5714DE641C82}|SE1825_Group2_A2\\SE1825_Group2_A2.csproj|c:\\users\\khanh ba\\documents\\prn212\\se1825_group2_a2\\se1825_group2_a2\\views\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73B1A314-E816-4256-BB15-5714DE641C82}|SE1825_Group2_A2\\SE1825_Group2_A2.csproj|solutionrelative:se1825_group2_a2\\views\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73B1A314-E816-4256-BB15-5714DE641C82}|SE1825_Group2_A2\\SE1825_Group2_A2.csproj|c:\\users\\khanh ba\\documents\\prn212\\se1825_group2_a2\\se1825_group2_a2\\views\\staffwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{73B1A314-E816-4256-BB15-5714DE641C82}|SE1825_Group2_A2\\SE1825_Group2_A2.csproj|solutionrelative:se1825_group2_a2\\views\\staffwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73B1A314-E816-4256-BB15-5714DE641C82}|SE1825_Group2_A2\\SE1825_Group2_A2.csproj|c:\\users\\khanh ba\\documents\\prn212\\se1825_group2_a2\\se1825_group2_a2\\views\\staffwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73B1A314-E816-4256-BB15-5714DE641C82}|SE1825_Group2_A2\\SE1825_Group2_A2.csproj|solutionrelative:se1825_group2_a2\\views\\staffwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73B1A314-E816-4256-BB15-5714DE641C82}|SE1825_Group2_A2\\SE1825_Group2_A2.csproj|c:\\users\\khanh ba\\documents\\prn212\\se1825_group2_a2\\se1825_group2_a2\\models\\mystorecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73B1A314-E816-4256-BB15-5714DE641C82}|SE1825_Group2_A2\\SE1825_Group2_A2.csproj|solutionrelative:se1825_group2_a2\\models\\mystorecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73B1A314-E816-4256-BB15-5714DE641C82}|SE1825_Group2_A2\\SE1825_Group2_A2.csproj|c:\\users\\khanh ba\\documents\\prn212\\se1825_group2_a2\\se1825_group2_a2\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73B1A314-E816-4256-BB15-5714DE641C82}|SE1825_Group2_A2\\SE1825_Group2_A2.csproj|solutionrelative:se1825_group2_a2\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73B1A314-E816-4256-BB15-5714DE641C82}|SE1825_Group2_A2\\SE1825_Group2_A2.csproj|c:\\users\\khanh ba\\documents\\prn212\\se1825_group2_a2\\se1825_group2_a2\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{73B1A314-E816-4256-BB15-5714DE641C82}|SE1825_Group2_A2\\SE1825_Group2_A2.csproj|solutionrelative:se1825_group2_a2\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73B1A314-E816-4256-BB15-5714DE641C82}|SE1825_Group2_A2\\SE1825_Group2_A2.csproj|c:\\users\\khanh ba\\documents\\prn212\\se1825_group2_a2\\se1825_group2_a2\\se1825_group2_a2.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{73B1A314-E816-4256-BB15-5714DE641C82}|SE1825_Group2_A2\\SE1825_Group2_A2.csproj|solutionrelative:se1825_group2_a2\\se1825_group2_a2.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73B1A314-E816-4256-BB15-5714DE641C82}|SE1825_Group2_A2\\SE1825_Group2_A2.csproj|c:\\users\\khanh ba\\documents\\prn212\\se1825_group2_a2\\se1825_group2_a2\\views\\orderwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{73B1A314-E816-4256-BB15-5714DE641C82}|SE1825_Group2_A2\\SE1825_Group2_A2.csproj|solutionrelative:se1825_group2_a2\\views\\orderwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73B1A314-E816-4256-BB15-5714DE641C82}|SE1825_Group2_A2\\SE1825_Group2_A2.csproj|c:\\users\\khanh ba\\documents\\prn212\\se1825_group2_a2\\se1825_group2_a2\\views\\orderwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73B1A314-E816-4256-BB15-5714DE641C82}|SE1825_Group2_A2\\SE1825_Group2_A2.csproj|solutionrelative:se1825_group2_a2\\views\\orderwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73B1A314-E816-4256-BB15-5714DE641C82}|SE1825_Group2_A2\\SE1825_Group2_A2.csproj|c:\\users\\khanh ba\\documents\\prn212\\se1825_group2_a2\\se1825_group2_a2\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73B1A314-E816-4256-BB15-5714DE641C82}|SE1825_Group2_A2\\SE1825_Group2_A2.csproj|solutionrelative:se1825_group2_a2\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73B1A314-E816-4256-BB15-5714DE641C82}|SE1825_Group2_A2\\SE1825_Group2_A2.csproj|c:\\users\\khanh ba\\documents\\prn212\\se1825_group2_a2\\se1825_group2_a2\\views\\report.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73B1A314-E816-4256-BB15-5714DE641C82}|SE1825_Group2_A2\\SE1825_Group2_A2.csproj|solutionrelative:se1825_group2_a2\\views\\report.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73B1A314-E816-4256-BB15-5714DE641C82}|SE1825_Group2_A2\\SE1825_Group2_A2.csproj|c:\\users\\khanh ba\\documents\\prn212\\se1825_group2_a2\\se1825_group2_a2\\views\\login.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{73B1A314-E816-4256-BB15-5714DE641C82}|SE1825_Group2_A2\\SE1825_Group2_A2.csproj|solutionrelative:se1825_group2_a2\\views\\login.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73B1A314-E816-4256-BB15-5714DE641C82}|SE1825_Group2_A2\\SE1825_Group2_A2.csproj|c:\\users\\khanh ba\\documents\\prn212\\se1825_group2_a2\\se1825_group2_a2\\views\\login.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73B1A314-E816-4256-BB15-5714DE641C82}|SE1825_Group2_A2\\SE1825_Group2_A2.csproj|solutionrelative:se1825_group2_a2\\views\\login.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73B1A314-E816-4256-BB15-5714DE641C82}|SE1825_Group2_A2\\SE1825_Group2_A2.csproj|c:\\users\\khanh ba\\documents\\prn212\\se1825_group2_a2\\se1825_group2_a2\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73B1A314-E816-4256-BB15-5714DE641C82}|SE1825_Group2_A2\\SE1825_Group2_A2.csproj|solutionrelative:se1825_group2_a2\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73B1A314-E816-4256-BB15-5714DE641C82}|SE1825_Group2_A2\\SE1825_Group2_A2.csproj|c:\\users\\khanh ba\\documents\\prn212\\se1825_group2_a2\\se1825_group2_a2\\views\\productwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73B1A314-E816-4256-BB15-5714DE641C82}|SE1825_Group2_A2\\SE1825_Group2_A2.csproj|solutionrelative:se1825_group2_a2\\views\\productwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73B1A314-E816-4256-BB15-5714DE641C82}|SE1825_Group2_A2\\SE1825_Group2_A2.csproj|c:\\users\\khanh ba\\documents\\prn212\\se1825_group2_a2\\se1825_group2_a2\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{73B1A314-E816-4256-BB15-5714DE641C82}|SE1825_Group2_A2\\SE1825_Group2_A2.csproj|solutionrelative:se1825_group2_a2\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73B1A314-E816-4256-BB15-5714DE641C82}|SE1825_Group2_A2\\SE1825_Group2_A2.csproj|c:\\users\\khanh ba\\documents\\prn212\\se1825_group2_a2\\se1825_group2_a2\\views\\report.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{73B1A314-E816-4256-BB15-5714DE641C82}|SE1825_Group2_A2\\SE1825_Group2_A2.csproj|solutionrelative:se1825_group2_a2\\views\\report.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73B1A314-E816-4256-BB15-5714DE641C82}|SE1825_Group2_A2\\SE1825_Group2_A2.csproj|c:\\users\\khanh ba\\documents\\prn212\\se1825_group2_a2\\se1825_group2_a2\\views\\productwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{73B1A314-E816-4256-BB15-5714DE641C82}|SE1825_Group2_A2\\SE1825_Group2_A2.csproj|solutionrelative:se1825_group2_a2\\views\\productwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73B1A314-E816-4256-BB15-5714DE641C82}|SE1825_Group2_A2\\SE1825_Group2_A2.csproj|c:\\users\\khanh ba\\documents\\prn212\\se1825_group2_a2\\se1825_group2_a2\\state\\authenticator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73B1A314-E816-4256-BB15-5714DE641C82}|SE1825_Group2_A2\\SE1825_Group2_A2.csproj|solutionrelative:se1825_group2_a2\\state\\authenticator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73B1A314-E816-4256-BB15-5714DE641C82}|SE1825_Group2_A2\\SE1825_Group2_A2.csproj|c:\\users\\khanh ba\\documents\\prn212\\se1825_group2_a2\\se1825_group2_a2\\state\\defaultaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73B1A314-E816-4256-BB15-5714DE641C82}|SE1825_Group2_A2\\SE1825_Group2_A2.csproj|solutionrelative:se1825_group2_a2\\state\\defaultaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73B1A314-E816-4256-BB15-5714DE641C82}|SE1825_Group2_A2\\SE1825_Group2_A2.csproj|c:\\users\\khanh ba\\documents\\prn212\\se1825_group2_a2\\se1825_group2_a2\\state\\accountstore.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73B1A314-E816-4256-BB15-5714DE641C82}|SE1825_Group2_A2\\SE1825_Group2_A2.csproj|solutionrelative:se1825_group2_a2\\state\\accountstore.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73B1A314-E816-4256-BB15-5714DE641C82}|SE1825_Group2_A2\\SE1825_Group2_A2.csproj|c:\\users\\khanh ba\\documents\\prn212\\se1825_group2_a2\\se1825_group2_a2\\services\\staffservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73B1A314-E816-4256-BB15-5714DE641C82}|SE1825_Group2_A2\\SE1825_Group2_A2.csproj|solutionrelative:se1825_group2_a2\\services\\staffservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73B1A314-E816-4256-BB15-5714DE641C82}|SE1825_Group2_A2\\SE1825_Group2_A2.csproj|c:\\users\\khanh ba\\documents\\prn212\\se1825_group2_a2\\se1825_group2_a2\\common\\dbrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73B1A314-E816-4256-BB15-5714DE641C82}|SE1825_Group2_A2\\SE1825_Group2_A2.csproj|solutionrelative:se1825_group2_a2\\common\\dbrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73B1A314-E816-4256-BB15-5714DE641C82}|SE1825_Group2_A2\\SE1825_Group2_A2.csproj|c:\\users\\khanh ba\\documents\\prn212\\se1825_group2_a2\\se1825_group2_a2\\common\\idbrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73B1A314-E816-4256-BB15-5714DE641C82}|SE1825_Group2_A2\\SE1825_Group2_A2.csproj|solutionrelative:se1825_group2_a2\\common\\idbrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73B1A314-E816-4256-BB15-5714DE641C82}|SE1825_Group2_A2\\SE1825_Group2_A2.csproj|c:\\users\\khanh ba\\documents\\prn212\\se1825_group2_a2\\se1825_group2_a2\\models\\staff.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73B1A314-E816-4256-BB15-5714DE641C82}|SE1825_Group2_A2\\SE1825_Group2_A2.csproj|solutionrelative:se1825_group2_a2\\models\\staff.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73B1A314-E816-4256-BB15-5714DE641C82}|SE1825_Group2_A2\\SE1825_Group2_A2.csproj|c:\\users\\khanh ba\\documents\\prn212\\se1825_group2_a2\\se1825_group2_a2\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73B1A314-E816-4256-BB15-5714DE641C82}|SE1825_Group2_A2\\SE1825_Group2_A2.csproj|solutionrelative:se1825_group2_a2\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73B1A314-E816-4256-BB15-5714DE641C82}|SE1825_Group2_A2\\SE1825_Group2_A2.csproj|c:\\users\\khanh ba\\documents\\prn212\\se1825_group2_a2\\se1825_group2_a2\\models\\orderdetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73B1A314-E816-4256-BB15-5714DE641C82}|SE1825_Group2_A2\\SE1825_Group2_A2.csproj|solutionrelative:se1825_group2_a2\\models\\orderdetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73B1A314-E816-4256-BB15-5714DE641C82}|SE1825_Group2_A2\\SE1825_Group2_A2.csproj|c:\\users\\khanh ba\\documents\\prn212\\se1825_group2_a2\\se1825_group2_a2\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73B1A314-E816-4256-BB15-5714DE641C82}|SE1825_Group2_A2\\SE1825_Group2_A2.csproj|solutionrelative:se1825_group2_a2\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73B1A314-E816-4256-BB15-5714DE641C82}|SE1825_Group2_A2\\SE1825_Group2_A2.csproj|c:\\users\\khanh ba\\documents\\prn212\\se1825_group2_a2\\se1825_group2_a2\\views\\roletotextconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73B1A314-E816-4256-BB15-5714DE641C82}|SE1825_Group2_A2\\SE1825_Group2_A2.csproj|solutionrelative:se1825_group2_a2\\views\\roletotextconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\Khanh Ba\\Documents\\PRN212\\SE1825_Group2_A2\\SE1825_Group2_A2\\Views\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "SE1825_Group2_A2\\Views\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\Khanh Ba\\Documents\\PRN212\\SE1825_Group2_A2\\SE1825_Group2_A2\\Views\\MainWindow.xaml",
+              "RelativeToolTip": "SE1825_Group2_A2\\Views\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-06-26T01:32:49.608Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "StaffWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Khanh Ba\\Documents\\PRN212\\SE1825_Group2_A2\\SE1825_Group2_A2\\Views\\StaffWindow.xaml.cs",
+              "RelativeDocumentMoniker": "SE1825_Group2_A2\\Views\\StaffWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\Khanh Ba\\Documents\\PRN212\\SE1825_Group2_A2\\SE1825_Group2_A2\\Views\\StaffWindow.xaml.cs",
+              "RelativeToolTip": "SE1825_Group2_A2\\Views\\StaffWindow.xaml.cs",
+              "ViewState": "AQIAABcAAAAAAAAAAAAAwAoAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-26T01:34:35.778Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "StaffWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\Khanh Ba\\Documents\\PRN212\\SE1825_Group2_A2\\SE1825_Group2_A2\\Views\\StaffWindow.xaml",
+              "RelativeDocumentMoniker": "SE1825_Group2_A2\\Views\\StaffWindow.xaml",
+              "ToolTip": "C:\\Users\\Khanh Ba\\Documents\\PRN212\\SE1825_Group2_A2\\SE1825_Group2_A2\\Views\\StaffWindow.xaml",
+              "RelativeToolTip": "SE1825_Group2_A2\\Views\\StaffWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-06-26T01:34:27.144Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Khanh Ba\\Documents\\PRN212\\SE1825_Group2_A2\\SE1825_Group2_A2\\Views\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "SE1825_Group2_A2\\Views\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\Khanh Ba\\Documents\\PRN212\\SE1825_Group2_A2\\SE1825_Group2_A2\\Views\\MainWindow.xaml.cs",
+              "RelativeToolTip": "SE1825_Group2_A2\\Views\\MainWindow.xaml.cs",
+              "ViewState": "AQIAAF0AAAAAAAAAAAAUwG8AAAA6AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-26T01:32:57.622Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MyStoreContext.cs",
+              "DocumentMoniker": "C:\\Users\\Khanh Ba\\Documents\\PRN212\\SE1825_Group2_A2\\SE1825_Group2_A2\\Models\\MyStoreContext.cs",
+              "RelativeDocumentMoniker": "SE1825_Group2_A2\\Models\\MyStoreContext.cs",
+              "ToolTip": "C:\\Users\\Khanh Ba\\Documents\\PRN212\\SE1825_Group2_A2\\SE1825_Group2_A2\\Models\\MyStoreContext.cs",
+              "RelativeToolTip": "SE1825_Group2_A2\\Models\\MyStoreContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-26T01:26:35.242Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Category.cs",
+              "DocumentMoniker": "C:\\Users\\Khanh Ba\\Documents\\PRN212\\SE1825_Group2_A2\\SE1825_Group2_A2\\Models\\Category.cs",
+              "RelativeDocumentMoniker": "SE1825_Group2_A2\\Models\\Category.cs",
+              "ToolTip": "C:\\Users\\Khanh Ba\\Documents\\PRN212\\SE1825_Group2_A2\\SE1825_Group2_A2\\Models\\Category.cs",
+              "RelativeToolTip": "SE1825_Group2_A2\\Models\\Category.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-26T01:26:27.982Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Khanh Ba\\Documents\\PRN212\\SE1825_Group2_A2\\SE1825_Group2_A2\\appsettings.json",
+              "RelativeDocumentMoniker": "SE1825_Group2_A2\\appsettings.json",
+              "ToolTip": "C:\\Users\\Khanh Ba\\Documents\\PRN212\\SE1825_Group2_A2\\SE1825_Group2_A2\\appsettings.json",
+              "RelativeToolTip": "SE1825_Group2_A2\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-06-26T01:25:42.266Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "SE1825_Group2_A2.csproj",
+              "DocumentMoniker": "C:\\Users\\Khanh Ba\\Documents\\PRN212\\SE1825_Group2_A2\\SE1825_Group2_A2\\SE1825_Group2_A2.csproj",
+              "RelativeDocumentMoniker": "SE1825_Group2_A2\\SE1825_Group2_A2.csproj",
+              "ToolTip": "C:\\Users\\Khanh Ba\\Documents\\PRN212\\SE1825_Group2_A2\\SE1825_Group2_A2\\SE1825_Group2_A2.csproj",
+              "RelativeToolTip": "SE1825_Group2_A2\\SE1825_Group2_A2.csproj",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAmwBsAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-06-26T01:25:22.718Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "RoleToTextConverter.cs",
+              "DocumentMoniker": "C:\\Users\\Khanh Ba\\Documents\\PRN212\\SE1825_Group2_A2\\SE1825_Group2_A2\\Views\\RoleToTextConverter.cs",
+              "RelativeDocumentMoniker": "SE1825_Group2_A2\\Views\\RoleToTextConverter.cs",
+              "ToolTip": "C:\\Users\\Khanh Ba\\Documents\\PRN212\\SE1825_Group2_A2\\SE1825_Group2_A2\\Views\\RoleToTextConverter.cs",
+              "RelativeToolTip": "SE1825_Group2_A2\\Views\\RoleToTextConverter.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-26T01:57:22.107Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "OrderWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\Khanh Ba\\Documents\\PRN212\\SE1825_Group2_A2\\SE1825_Group2_A2\\Views\\OrderWindow.xaml",
+              "RelativeDocumentMoniker": "SE1825_Group2_A2\\Views\\OrderWindow.xaml",
+              "ToolTip": "C:\\Users\\Khanh Ba\\Documents\\PRN212\\SE1825_Group2_A2\\SE1825_Group2_A2\\Views\\OrderWindow.xaml",
+              "RelativeToolTip": "SE1825_Group2_A2\\Views\\OrderWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-06-26T01:33:15.74Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "OrderWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Khanh Ba\\Documents\\PRN212\\SE1825_Group2_A2\\SE1825_Group2_A2\\Views\\OrderWindow.xaml.cs",
+              "RelativeDocumentMoniker": "SE1825_Group2_A2\\Views\\OrderWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\Khanh Ba\\Documents\\PRN212\\SE1825_Group2_A2\\SE1825_Group2_A2\\Views\\OrderWindow.xaml.cs",
+              "RelativeToolTip": "SE1825_Group2_A2\\Views\\OrderWindow.xaml.cs",
+              "ViewState": "AQIAACQAAAAAAAAAAIA3wDEAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-26T01:33:25.573Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "AssemblyInfo.cs",
+              "DocumentMoniker": "C:\\Users\\Khanh Ba\\Documents\\PRN212\\SE1825_Group2_A2\\SE1825_Group2_A2\\AssemblyInfo.cs",
+              "RelativeDocumentMoniker": "SE1825_Group2_A2\\AssemblyInfo.cs",
+              "ToolTip": "C:\\Users\\Khanh Ba\\Documents\\PRN212\\SE1825_Group2_A2\\SE1825_Group2_A2\\AssemblyInfo.cs",
+              "RelativeToolTip": "SE1825_Group2_A2\\AssemblyInfo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-26T01:36:49.633Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Report.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Khanh Ba\\Documents\\PRN212\\SE1825_Group2_A2\\SE1825_Group2_A2\\Views\\Report.xaml.cs",
+              "RelativeDocumentMoniker": "SE1825_Group2_A2\\Views\\Report.xaml.cs",
+              "ToolTip": "C:\\Users\\Khanh Ba\\Documents\\PRN212\\SE1825_Group2_A2\\SE1825_Group2_A2\\Views\\Report.xaml.cs",
+              "RelativeToolTip": "SE1825_Group2_A2\\Views\\Report.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-26T01:34:02.74Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Login.xaml",
+              "DocumentMoniker": "C:\\Users\\Khanh Ba\\Documents\\PRN212\\SE1825_Group2_A2\\SE1825_Group2_A2\\Views\\Login.xaml",
+              "RelativeDocumentMoniker": "SE1825_Group2_A2\\Views\\Login.xaml",
+              "ToolTip": "C:\\Users\\Khanh Ba\\Documents\\PRN212\\SE1825_Group2_A2\\SE1825_Group2_A2\\Views\\Login.xaml",
+              "RelativeToolTip": "SE1825_Group2_A2\\Views\\Login.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-06-26T01:31:59.499Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Login.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Khanh Ba\\Documents\\PRN212\\SE1825_Group2_A2\\SE1825_Group2_A2\\Views\\Login.xaml.cs",
+              "RelativeDocumentMoniker": "SE1825_Group2_A2\\Views\\Login.xaml.cs",
+              "ToolTip": "C:\\Users\\Khanh Ba\\Documents\\PRN212\\SE1825_Group2_A2\\SE1825_Group2_A2\\Views\\Login.xaml.cs",
+              "RelativeToolTip": "SE1825_Group2_A2\\Views\\Login.xaml.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAAC8AAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-26T01:32:08.183Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "App.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Khanh Ba\\Documents\\PRN212\\SE1825_Group2_A2\\SE1825_Group2_A2\\App.xaml.cs",
+              "RelativeDocumentMoniker": "SE1825_Group2_A2\\App.xaml.cs",
+              "ToolTip": "C:\\Users\\Khanh Ba\\Documents\\PRN212\\SE1825_Group2_A2\\SE1825_Group2_A2\\App.xaml.cs",
+              "RelativeToolTip": "SE1825_Group2_A2\\App.xaml.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAAAEsAAABCAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-26T01:30:25.846Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "ProductWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Khanh Ba\\Documents\\PRN212\\SE1825_Group2_A2\\SE1825_Group2_A2\\Views\\ProductWindow.xaml.cs",
+              "RelativeDocumentMoniker": "SE1825_Group2_A2\\Views\\ProductWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\Khanh Ba\\Documents\\PRN212\\SE1825_Group2_A2\\SE1825_Group2_A2\\Views\\ProductWindow.xaml.cs",
+              "RelativeToolTip": "SE1825_Group2_A2\\Views\\ProductWindow.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-26T01:33:50.266Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "App.xaml",
+              "DocumentMoniker": "C:\\Users\\Khanh Ba\\Documents\\PRN212\\SE1825_Group2_A2\\SE1825_Group2_A2\\App.xaml",
+              "RelativeDocumentMoniker": "SE1825_Group2_A2\\App.xaml",
+              "ToolTip": "C:\\Users\\Khanh Ba\\Documents\\PRN212\\SE1825_Group2_A2\\SE1825_Group2_A2\\App.xaml",
+              "RelativeToolTip": "SE1825_Group2_A2\\App.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-06-26T01:35:16.52Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Report.xaml",
+              "DocumentMoniker": "C:\\Users\\Khanh Ba\\Documents\\PRN212\\SE1825_Group2_A2\\SE1825_Group2_A2\\Views\\Report.xaml",
+              "RelativeDocumentMoniker": "SE1825_Group2_A2\\Views\\Report.xaml",
+              "ToolTip": "C:\\Users\\Khanh Ba\\Documents\\PRN212\\SE1825_Group2_A2\\SE1825_Group2_A2\\Views\\Report.xaml",
+              "RelativeToolTip": "SE1825_Group2_A2\\Views\\Report.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-06-26T01:34:14.414Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "ProductWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\Khanh Ba\\Documents\\PRN212\\SE1825_Group2_A2\\SE1825_Group2_A2\\Views\\ProductWindow.xaml",
+              "RelativeDocumentMoniker": "SE1825_Group2_A2\\Views\\ProductWindow.xaml",
+              "ToolTip": "C:\\Users\\Khanh Ba\\Documents\\PRN212\\SE1825_Group2_A2\\SE1825_Group2_A2\\Views\\ProductWindow.xaml",
+              "RelativeToolTip": "SE1825_Group2_A2\\Views\\ProductWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-06-26T01:33:40.877Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "DefaultAccount.cs",
+              "DocumentMoniker": "C:\\Users\\Khanh Ba\\Documents\\PRN212\\SE1825_Group2_A2\\SE1825_Group2_A2\\State\\DefaultAccount.cs",
+              "RelativeDocumentMoniker": "SE1825_Group2_A2\\State\\DefaultAccount.cs",
+              "ToolTip": "C:\\Users\\Khanh Ba\\Documents\\PRN212\\SE1825_Group2_A2\\SE1825_Group2_A2\\State\\DefaultAccount.cs",
+              "RelativeToolTip": "SE1825_Group2_A2\\State\\DefaultAccount.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-26T01:29:25.784Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Authenticator.cs",
+              "DocumentMoniker": "C:\\Users\\Khanh Ba\\Documents\\PRN212\\SE1825_Group2_A2\\SE1825_Group2_A2\\State\\Authenticator.cs",
+              "RelativeDocumentMoniker": "SE1825_Group2_A2\\State\\Authenticator.cs",
+              "ToolTip": "C:\\Users\\Khanh Ba\\Documents\\PRN212\\SE1825_Group2_A2\\SE1825_Group2_A2\\State\\Authenticator.cs",
+              "RelativeToolTip": "SE1825_Group2_A2\\State\\Authenticator.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB0AAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-26T01:29:00.919Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "AccountStore.cs",
+              "DocumentMoniker": "C:\\Users\\Khanh Ba\\Documents\\PRN212\\SE1825_Group2_A2\\SE1825_Group2_A2\\State\\AccountStore.cs",
+              "RelativeDocumentMoniker": "SE1825_Group2_A2\\State\\AccountStore.cs",
+              "ToolTip": "C:\\Users\\Khanh Ba\\Documents\\PRN212\\SE1825_Group2_A2\\SE1825_Group2_A2\\State\\AccountStore.cs",
+              "RelativeToolTip": "SE1825_Group2_A2\\State\\AccountStore.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-26T01:28:49.262Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "StaffServices.cs",
+              "DocumentMoniker": "C:\\Users\\Khanh Ba\\Documents\\PRN212\\SE1825_Group2_A2\\SE1825_Group2_A2\\Services\\StaffServices.cs",
+              "RelativeDocumentMoniker": "SE1825_Group2_A2\\Services\\StaffServices.cs",
+              "ToolTip": "C:\\Users\\Khanh Ba\\Documents\\PRN212\\SE1825_Group2_A2\\SE1825_Group2_A2\\Services\\StaffServices.cs",
+              "RelativeToolTip": "SE1825_Group2_A2\\Services\\StaffServices.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-26T01:28:23.744Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "DbRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Khanh Ba\\Documents\\PRN212\\SE1825_Group2_A2\\SE1825_Group2_A2\\Common\\DbRepository.cs",
+              "RelativeDocumentMoniker": "SE1825_Group2_A2\\Common\\DbRepository.cs",
+              "ToolTip": "C:\\Users\\Khanh Ba\\Documents\\PRN212\\SE1825_Group2_A2\\SE1825_Group2_A2\\Common\\DbRepository.cs",
+              "RelativeToolTip": "SE1825_Group2_A2\\Common\\DbRepository.cs",
+              "ViewState": "AQIAAEMAAAAAAAAAAADwvwwAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-26T01:27:46.87Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "IDbRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Khanh Ba\\Documents\\PRN212\\SE1825_Group2_A2\\SE1825_Group2_A2\\Common\\IDbRepository.cs",
+              "RelativeDocumentMoniker": "SE1825_Group2_A2\\Common\\IDbRepository.cs",
+              "ToolTip": "C:\\Users\\Khanh Ba\\Documents\\PRN212\\SE1825_Group2_A2\\SE1825_Group2_A2\\Common\\IDbRepository.cs",
+              "RelativeToolTip": "SE1825_Group2_A2\\Common\\IDbRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-26T01:27:38.309Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Staff.cs",
+              "DocumentMoniker": "C:\\Users\\Khanh Ba\\Documents\\PRN212\\SE1825_Group2_A2\\SE1825_Group2_A2\\Models\\Staff.cs",
+              "RelativeDocumentMoniker": "SE1825_Group2_A2\\Models\\Staff.cs",
+              "ToolTip": "C:\\Users\\Khanh Ba\\Documents\\PRN212\\SE1825_Group2_A2\\SE1825_Group2_A2\\Models\\Staff.cs",
+              "RelativeToolTip": "SE1825_Group2_A2\\Models\\Staff.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-26T01:27:05.312Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\Khanh Ba\\Documents\\PRN212\\SE1825_Group2_A2\\SE1825_Group2_A2\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "SE1825_Group2_A2\\Models\\Product.cs",
+              "ToolTip": "C:\\Users\\Khanh Ba\\Documents\\PRN212\\SE1825_Group2_A2\\SE1825_Group2_A2\\Models\\Product.cs",
+              "RelativeToolTip": "SE1825_Group2_A2\\Models\\Product.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-26T01:27:01.261Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "OrderDetail.cs",
+              "DocumentMoniker": "C:\\Users\\Khanh Ba\\Documents\\PRN212\\SE1825_Group2_A2\\SE1825_Group2_A2\\Models\\OrderDetail.cs",
+              "RelativeDocumentMoniker": "SE1825_Group2_A2\\Models\\OrderDetail.cs",
+              "ToolTip": "C:\\Users\\Khanh Ba\\Documents\\PRN212\\SE1825_Group2_A2\\SE1825_Group2_A2\\Models\\OrderDetail.cs",
+              "RelativeToolTip": "SE1825_Group2_A2\\Models\\OrderDetail.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-26T01:26:58.139Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "Order.cs",
+              "DocumentMoniker": "C:\\Users\\Khanh Ba\\Documents\\PRN212\\SE1825_Group2_A2\\SE1825_Group2_A2\\Models\\Order.cs",
+              "RelativeDocumentMoniker": "SE1825_Group2_A2\\Models\\Order.cs",
+              "ToolTip": "C:\\Users\\Khanh Ba\\Documents\\PRN212\\SE1825_Group2_A2\\SE1825_Group2_A2\\Models\\Order.cs",
+              "RelativeToolTip": "SE1825_Group2_A2\\Models\\Order.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-26T01:26:53.019Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

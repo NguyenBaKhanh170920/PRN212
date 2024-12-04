@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Administrator\\Documents\\PRN212\\PT1_again\\Q2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4BD4C727-E877-45F8-AAFF-8F7B65C5C7D4}|Q2\\Q2.csproj|c:\\users\\administrator\\documents\\prn212\\pt1_again\\q2\\q2\\foods.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4BD4C727-E877-45F8-AAFF-8F7B65C5C7D4}|Q2\\Q2.csproj|solutionrelative:q2\\foods.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4BD4C727-E877-45F8-AAFF-8F7B65C5C7D4}|Q2\\Q2.csproj|c:\\users\\administrator\\documents\\prn212\\pt1_again\\q2\\q2\\food.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4BD4C727-E877-45F8-AAFF-8F7B65C5C7D4}|Q2\\Q2.csproj|solutionrelative:q2\\food.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4BD4C727-E877-45F8-AAFF-8F7B65C5C7D4}|Q2\\Q2.csproj|c:\\users\\administrator\\documents\\prn212\\pt1_again\\q2\\q2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4BD4C727-E877-45F8-AAFF-8F7B65C5C7D4}|Q2\\Q2.csproj|solutionrelative:q2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Foods.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Documents\\PRN212\\PT1_again\\Q2\\Q2\\Foods.cs",
+              "RelativeDocumentMoniker": "Q2\\Foods.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Documents\\PRN212\\PT1_again\\Q2\\Q2\\Foods.cs",
+              "RelativeToolTip": "Q2\\Foods.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAA8wBEAAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-20T02:16:53.544Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Food.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Documents\\PRN212\\PT1_again\\Q2\\Q2\\Food.cs",
+              "RelativeDocumentMoniker": "Q2\\Food.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Documents\\PRN212\\PT1_again\\Q2\\Q2\\Food.cs",
+              "RelativeToolTip": "Q2\\Food.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-20T02:15:41.037Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Documents\\PRN212\\PT1_again\\Q2\\Q2\\Program.cs",
+              "RelativeDocumentMoniker": "Q2\\Program.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Documents\\PRN212\\PT1_again\\Q2\\Q2\\Program.cs",
+              "RelativeToolTip": "Q2\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-20T02:15:12.929Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

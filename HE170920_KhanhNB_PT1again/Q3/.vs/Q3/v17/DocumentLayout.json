@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Administrator\\Documents\\PRN212\\PT1_again\\Q3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9B26E833-1F6B-44FE-ABF9-73FB320D24B0}|Q3\\Q3.csproj|c:\\users\\administrator\\documents\\prn212\\pt1_again\\q3\\q3\\utility.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9B26E833-1F6B-44FE-ABF9-73FB320D24B0}|Q3\\Q3.csproj|solutionrelative:q3\\utility.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B26E833-1F6B-44FE-ABF9-73FB320D24B0}|Q3\\Q3.csproj|c:\\users\\administrator\\documents\\prn212\\pt1_again\\q3\\q3\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9B26E833-1F6B-44FE-ABF9-73FB320D24B0}|Q3\\Q3.csproj|solutionrelative:q3\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B26E833-1F6B-44FE-ABF9-73FB320D24B0}|Q3\\Q3.csproj|c:\\users\\administrator\\documents\\prn212\\pt1_again\\q3\\q3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9B26E833-1F6B-44FE-ABF9-73FB320D24B0}|Q3\\Q3.csproj|solutionrelative:q3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B26E833-1F6B-44FE-ABF9-73FB320D24B0}|Q3\\Q3.csproj|c:\\users\\administrator\\documents\\prn212\\pt1_again\\q3\\q3\\iuility.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9B26E833-1F6B-44FE-ABF9-73FB320D24B0}|Q3\\Q3.csproj|solutionrelative:q3\\iuility.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Utility.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Documents\\PRN212\\PT1_again\\Q3\\Q3\\Utility.cs",
+              "RelativeDocumentMoniker": "Q3\\Utility.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Documents\\PRN212\\PT1_again\\Q3\\Q3\\Utility.cs",
+              "RelativeToolTip": "Q3\\Utility.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-20T02:28:18.912Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Student.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Documents\\PRN212\\PT1_again\\Q3\\Q3\\Student.cs",
+              "RelativeDocumentMoniker": "Q3\\Student.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Documents\\PRN212\\PT1_again\\Q3\\Q3\\Student.cs",
+              "RelativeToolTip": "Q3\\Student.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-20T02:26:27.248Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IUility.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Documents\\PRN212\\PT1_again\\Q3\\Q3\\IUility.cs",
+              "RelativeDocumentMoniker": "Q3\\IUility.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Documents\\PRN212\\PT1_again\\Q3\\Q3\\IUility.cs",
+              "RelativeToolTip": "Q3\\IUility.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-20T02:25:36.587Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Documents\\PRN212\\PT1_again\\Q3\\Q3\\Program.cs",
+              "RelativeDocumentMoniker": "Q3\\Program.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Documents\\PRN212\\PT1_again\\Q3\\Q3\\Program.cs",
+              "RelativeToolTip": "Q3\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-20T02:24:20.475Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

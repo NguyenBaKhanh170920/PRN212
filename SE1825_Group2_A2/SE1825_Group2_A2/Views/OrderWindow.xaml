@@ -1,0 +1,121 @@
+﻿<Window x:Class="SE1825_Group2_A2.OrderWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:sys="clr-namespace:System;assembly=mscorlib" 
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:SE1825_Group2_A2"
+        mc:Ignorable="d"
+        Title="Order Management" Height="450" Width="800">
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto"></RowDefinition>
+            <RowDefinition Height="*"></RowDefinition>
+        </Grid.RowDefinitions>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="*"></ColumnDefinition>
+            <ColumnDefinition Width="*"></ColumnDefinition>
+            <ColumnDefinition Width="*"></ColumnDefinition>
+            <ColumnDefinition Width="*"></ColumnDefinition>
+        </Grid.ColumnDefinitions>
+
+        <!--Form to search records by date-->
+        <StackPanel Grid.Row="0" Grid.ColumnSpan="2" Background="LightBlue" Orientation="Vertical">
+            <Label Content="Search Order by Date" FontSize="14" FontWeight="Bold" Margin="0"></Label>
+            <Grid Margin="10">
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="Auto"/>
+                    <ColumnDefinition Width="Auto"/>
+                    <ColumnDefinition Width="Auto"/>
+                    <ColumnDefinition Width="*"/>
+                </Grid.ColumnDefinitions>
+                <Grid.RowDefinitions>
+                    <RowDefinition Height="Auto"></RowDefinition>
+                    <RowDefinition Height="*"></RowDefinition>
+                </Grid.RowDefinitions>
+                <Label Content="Date" Grid.Column="0"></Label>
+                <DatePicker x:Name="dpDate" Width="120" Grid.Row="0" Grid.Column="1" HorizontalAlignment="Left"/>
+                <Button Content="Search" Grid.Row="0" Grid.Column="2" HorizontalAlignment="Left" Click="btnSearch_Click"/>
+                <Button Content="Reset filter" Grid.Row="0" Grid.Column="3" HorizontalAlignment="Left" Click="btnResetFilter_Click"/>
+
+                <Button Content="Add new Order" Grid.Row="1" Grid.Column="1" HorizontalAlignment="Left" Click="btnAddOrder_Click"/>
+            </Grid>
+        </StackPanel>
+
+        <!--Form to add/modify Order Details-->
+        <StackPanel Grid.Row="0" Grid.Column="2" Grid.ColumnSpan="2" Background="LightBlue" Orientation="Vertical">
+            <Label Content="Order Detail Form" FontSize="14" FontWeight="Bold" Margin="0"/>
+            <Grid Margin="10">
+                <Grid.RowDefinitions>
+                    <RowDefinition Height="Auto"/>
+                    <RowDefinition Height="Auto"/>
+                    <RowDefinition Height="Auto"/>
+                    <RowDefinition Height="Auto"/>
+                    <RowDefinition Height="Auto"/>
+                    <RowDefinition Height="Auto"/>
+                </Grid.RowDefinitions>
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="Auto"/>
+                    <ColumnDefinition Width="Auto"/>
+                </Grid.ColumnDefinitions>
+
+                <Label Content="Order Detail ID" Grid.Row="0" Grid.Column="0"/>
+                <TextBlock x:Name="tbOrderDetailId" Width="120" Grid.Row="0" Grid.Column="1" HorizontalAlignment="Left"/>
+
+                <Label Content="Order ID" Grid.Row="1" Grid.Column="0"/>
+                <TextBlock x:Name="tbOrderDId" Width="120" Grid.Row="1" Grid.Column="1" HorizontalAlignment="Left"/>
+
+                <Label Content="Product ID" Grid.Row="2" Grid.Column="0"/>
+                <TextBox x:Name="tbProductId" Width="120" Grid.Row="2" Grid.Column="1" HorizontalAlignment="Left" TextChanged="tbProductId_TextChanged"/>
+
+                <Label Content="Quantity" Grid.Row="3" Grid.Column="0"/>
+                <TextBox x:Name="tbQuantity" Width="120" Grid.Row="3" Grid.Column="1" HorizontalAlignment="Left"/>
+
+                <Label Content="Unit Price" Grid.Row="4" Grid.Column="0"/>
+                <TextBlock x:Name="tbUnitPrice" Width="120" Grid.Row="4" Grid.Column="1" HorizontalAlignment="Left"/>
+
+
+                <Button Content="Add detail" Grid.Row="5" Grid.Column="0" HorizontalAlignment="Left" Click="btnAddDetail_Click"/>
+                <Button Content="Edit detail" Grid.Row="5" Grid.Column="1" HorizontalAlignment="Left" Click="btnEditDetail_Click"/>
+            </Grid>
+        </StackPanel>
+
+        <!--List view for Order records-->
+        <ListView x:Name="lvOrders" Grid.Row="1" Grid.ColumnSpan="2" SelectionChanged="lvOrders_SelectionChanged" ScrollViewer.VerticalScrollBarVisibility="Auto">
+            <ListView.View>
+                <GridView>
+                    <GridViewColumn x:Name="gvcOrderId" Header="Order ID" DisplayMemberBinding="{Binding OrderId}"/>
+                    <GridViewColumn Header="Order Date" DisplayMemberBinding="{Binding OrderDate}"/>
+                    <GridViewColumn Header="Staff ID" DisplayMemberBinding="{Binding StaffId}"/>
+                    <GridViewColumn Header="Actions">
+                        <GridViewColumn.CellTemplate>
+                            <DataTemplate>
+                                <Button Content="Delete" Click="btnDelete_Click" Tag="{Binding OrderId}"/>
+                            </DataTemplate>
+                        </GridViewColumn.CellTemplate>
+                    </GridViewColumn>
+                </GridView>
+            </ListView.View>
+        </ListView>
+
+        <!--List view for OrderDetails-->
+        <ListView x:Name="lvOrderDetails" Grid.Row="1" Grid.Column="2" Grid.ColumnSpan="2" SelectionChanged="lvOrderDetails_SelectionChanged" ScrollViewer.VerticalScrollBarVisibility="Auto">
+            <ListView.View>
+                <GridView>
+                    <GridViewColumn x:Name="gvcOrderDetailId" Header="Order Detail ID" DisplayMemberBinding="{Binding OrderDetailId}"/>
+                    <GridViewColumn Header="Order ID" DisplayMemberBinding="{Binding OrderId}"/>
+                    <GridViewColumn Header="Product ID" DisplayMemberBinding="{Binding ProductId}"/>
+                    <GridViewColumn Header="Quantity" DisplayMemberBinding="{Binding Quantity}"/>
+                    <GridViewColumn Header="Unit Price" DisplayMemberBinding="{Binding UnitPrice}"/>
+                    <GridViewColumn Header="Actions">
+                        <GridViewColumn.CellTemplate>
+                            <DataTemplate>
+                                <Button Content="Delete" Click="btnDeleteDetail_Click" Tag="{Binding OrderDetailId}"/>
+                            </DataTemplate>
+                        </GridViewColumn.CellTemplate>
+                    </GridViewColumn>
+                </GridView>
+            </ListView.View>
+        </ListView>
+    </Grid>
+</Window>
